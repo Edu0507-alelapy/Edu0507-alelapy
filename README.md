@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on fullstack´s stage of enterprise specially in the area of data analyst to manage Database tools like every version´s SQL and PowerBI
 -  Me like to be freelancer Dev
 -  How to reach me ... 1697037@senati.pe
--  Pronouns: Edu Rodri in social networks
+-  Pronouns: Edu_Rodri in social networks
 -  Fun fact: ...
 
 <!---
