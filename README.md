@@ -3,7 +3,7 @@
 -  I’m currently learning to do WebApps and Apps for business and improve them, into with SpringBoot to backend. And put in IA integration to do predictives 
 -  Me like to be freelancer Developer and collaborate like Product Manager.
 -  Reach me ... edu.rodri_nk@hotmail.com
--  edurodri.dev in social networks
+-  Eduardo Ruiz Alva in linkedIN
 -  
 <!---
 Edu0507-alelapy/Edu0507-alelapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
